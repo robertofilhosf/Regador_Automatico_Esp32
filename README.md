@@ -132,6 +132,6 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 ---
 
 ### Autores
-Disraeli Michelangelo Rafael da Costa Filho
-José Roberto Peixoto Ferreira Filho
-Matheus Carneiro da Cunha
+- [x] Disraeli Michelangelo Rafael da Costa Filho
+- [x] José Roberto Peixoto Ferreira Filho
+- [x] Matheus Carneiro da Cunha
